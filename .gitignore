@@ -1,0 +1,9 @@
+AES128CounterMode-Basys3.cache
+AES128CounterMode-Basys3.gen
+AES128CounterMode-Basys3.hw
+AES128CounterMode-Basys3.ip_user_files
+AES128CounterMode-Basys3.runs
+AES128CounterMode-Basys3.sim
+*.str
+*.jou
+*.log
